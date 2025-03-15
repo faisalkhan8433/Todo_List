@@ -17,8 +17,8 @@ A simple **React-based** Todo app with **Vite** and **Tailwind CSS**, supporting
 ## 📦 Installation  
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/your-username/todo-app.git
-   cd todo-app
+   git clone https://github.com/faisalkhan8433/Todo_List.git
+   cd Todo_List
    ```  
 2. **Install dependencies**  
    ```sh
@@ -44,6 +44,3 @@ Dark mode works by adding the `"dark"` class to the `html` element. Ensure you h
  ├── main.jsx  
  ├── styles.css  
 ```
-
-## 📜 License  
-This project is **open-source** under the MIT License.  
